@@ -31,7 +31,7 @@
 
 OSPTEK **4.0″ 720×720 TFT (IPS)** is a **MIPI** color display module driven by **ST7703**, with capacitive touch (**GT911**). Suited to square HMI, instruments, and mid-size interactive panels.
 
-Spec ID (repository name): `4.0-tft-720x720-mipi-st7703`
+Spec ID (repository name): `tft-4.0-720x720-mipi-st7703`
 
 Current module version: **YDP400BT001-V4**. Electrical and mechanical details follow [`docs/YDP_400_BT_001_V4_058148418c.pdf`](./docs/YDP_400_BT_001_V4_058148418c.pdf).
 
@@ -71,7 +71,7 @@ Current module version: **YDP400BT001-V4**. Electrical and mechanical details fo
 ## Repository layout
 
 ```text
-4.0-tft-720x720-mipi-st7703/                                # repo root (nav: ../../README_EN.md)
+tft-4.0-720x720-mipi-st7703/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP400BT001-V4/                                # full materials for this part number
         ├── README.md
