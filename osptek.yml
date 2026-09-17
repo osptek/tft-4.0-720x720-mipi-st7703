@@ -1,0 +1,14 @@
+id: tft-4.0-720x720-mipi-st7703
+category: displays
+
+size: "4.0"
+panel: tft
+resolution: 720x720
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP400BT001-V4
+    driver: ST7703
+    touch: GT911
+    note: none
